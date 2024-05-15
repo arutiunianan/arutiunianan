@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h3>
     Hey there
-    <iframe src="https://giphy.com/embed/11fIOE3vkIPdIY" width="30" height="20" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBmY252bmZ1d25qMDNsenZ3OTV2ZXoxNm5mamtvbGJ5ZTNyc3NxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11fIOE3vkIPdIY/giphy.webp" width="30"/>
   </h3>
 </div>
 
