@@ -1,12 +1,11 @@
 <div id="header" align="center">
   <h3>
-    Hey there
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBmY252bmZ1d25qMDNsenZ3OTV2ZXoxNm5mamtvbGJ5ZTNyc3NxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11fIOE3vkIPdIY/giphy.webp" width="30"/>
+    Hey there <3
   </h3>
 </div>
 
 <div id="header" align="center">
-  <img src="kitty.gif" width="100"/>
+  <img src="kitty.gif" width="160"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/id270388524">
@@ -22,3 +21,14 @@
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=arutiunianan&style=flat-square&color=blue" alt=""/>
 </div>
+
+#### :woman_technologist: About Me
+I am Ani Arutiunian, a 20-year-old girl from Voronezh. Now I am a 3rd year student at MIPT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> One of my main interests is programming, so on this GitHub account you can see my projects during training:)
+
+#### :memo: My [CV](my_cv.pdf)
+
+#### :trophy: My State
+[![GitHub Streak](https://streak-stats.demolab.com?user=arutiunianan&theme=gotham&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arutiunianan&layout=compact&theme=gotham&hide=PostScript,Jupyter%20Notebook,Python,TeX,Assembly,Java)](https://github.com/anuraghazra/github-readme-stats)
