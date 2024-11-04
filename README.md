@@ -23,7 +23,7 @@
 </div>
 
 #### :woman_technologist: About Me
-I am Ani Arutiunian, a 20-year-old girl from Voronezh. Now I am a 4rd year student at MIPT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> One of my main interests is programming, so on this GitHub account you can see my projects during training:) Now I work mainly in gitee: 
+I am Ani Arutiunian, a 21-year-old girl from Voronezh. Now I am a 4rd year student at MIPT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> One of my main interests is programming, so on this GitHub account you can see my projects during training:) Now I work mainly in gitee: 
 <div id="badges" align="center">
    https://gitee.com/arutiunianani
 </div>
