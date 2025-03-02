@@ -25,8 +25,6 @@
 #### :woman_technologist: About Me
 I am Ani Arutiunian, a 21-year-old girl from Voronezh. Now I am a 4rd year student at MIPT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> One of my main interests is programming, so on this GitHub account you can see my projects during training:) I'm currently working for Huawei.
 
-:memo: My [CV](my_cv.pdf)
-
 #### :trophy: My State
 [![GitHub Streak](https://streak-stats.demolab.com?user=arutiunianan&theme=gotham&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
